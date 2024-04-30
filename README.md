@@ -2,7 +2,7 @@
 ## Repo for a GB Java cource
 
 Repo\
- |\
- --Lesson\
-     |\
-     --Task\
+&nbsp;|\
+&nbsp;--Lesson\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Task
