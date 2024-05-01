@@ -4,5 +4,5 @@
 Repo\
 &nbsp;|\
 &nbsp;--Lesson\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Task
+&nbsp;|\
+&nbsp;--Lesson\
