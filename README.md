@@ -3,6 +3,6 @@
 
 Repo\
 &nbsp;|\
-&nbsp;--Lesson\
+&nbsp;--Lesson1\
 &nbsp;|\
-&nbsp;--Lesson\
+&nbsp;--Lesson2
